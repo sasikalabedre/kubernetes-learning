@@ -115,6 +115,4 @@ To avoid charges, I deleted everything after the project, in this order:
 - Cloud policies can block a default setup, and a private cluster with Cloud NAT is a safe way around it.
 - Always check the current context before running commands.
 
-## Next
 
-Level 2: ConfigMaps, Secrets, probes, resource limits, storage, Ingress, StatefulSets and HPA.
